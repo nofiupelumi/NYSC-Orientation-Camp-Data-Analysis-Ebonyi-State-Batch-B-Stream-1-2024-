@@ -1,0 +1,12 @@
+,State of Origin,Gender,Age,Religion,Marital Status,Satisfied with Kits Issued,Food Quantity,Food Quality,Involvement in Prep,Mode of Serving,NYSC Officials,Soldiers,Police/NSCDC,Man O' War,Others
+count,381,381,381.0,381,381,381,381,381,381,381,381,381,381,381,381
+unique,15,2,,3,3,2,4,4,4,4,3,3,3,3,3
+top,Lagos,Male,,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+freq,66,216,,277,350,259,129,123,101,102,188,180,198,190,190
+mean,,,26.79265091863517,,,,,,,,,,,,
+std,,,4.297679735861207,,,,,,,,,,,,
+min,,,20.0,,,,,,,,,,,,
+25%,,,23.0,,,,,,,,,,,,
+50%,,,27.0,,,,,,,,,,,,
+75%,,,30.0,,,,,,,,,,,,
+max,,,34.0,,,,,,,,,,,,

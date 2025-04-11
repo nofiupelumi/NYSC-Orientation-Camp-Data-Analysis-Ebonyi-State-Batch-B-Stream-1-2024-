@@ -1,0 +1,382 @@
+State of Origin,Gender,Age,Religion,Marital Status,Satisfied with Kits Issued,Food Quantity,Food Quality,Involvement in Prep,Mode of Serving,NYSC Officials,Soldiers,Police/NSCDC,Man O' War,Others
+Ondo,Female,24,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Others,Female,30,Christianity,Single,No,Satisfied,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Kano,Female,26,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Enugu,Female,20,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Oyo,Female,33,Christianity,Single,No,Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined,Not Disciplined
+Oyo,Male,23,Christianity,Single,No,Not Satisfied,Satisfied,Very Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Lagos,Male,25,Christianity,Married,Yes,Very Satisfied,Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+FCT,Female,21,Christianity,Single,Yes,Satisfied,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined
+Enugu,Female,29,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Not Disciplined,Not Disciplined,Very Disciplined,Very Disciplined
+Kano,Female,24,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Lagos,Male,30,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Others,Male,29,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+FCT,Female,20,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Oyo,Male,25,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Not Disciplined,Disciplined,Disciplined,Disciplined
+Oyo,Female,25,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Disciplined,Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Oyo,Female,32,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Ogun,Male,34,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Not Satisfied,Satisfied,Very Disciplined,Disciplined,Not Disciplined,Not Disciplined,Not Disciplined
+Imo,Female,34,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Ekiti,Female,23,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Osun,Male,32,Christianity,Single,No,Fairly Satisfied,Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Enugu,Female,27,Islam,Single,Yes,Not Satisfied,Very Satisfied,Fairly Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Lagos,Male,23,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Not Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Osun,Female,27,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Ondo,Male,34,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Abia,Female,32,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Disciplined
+Kaduna,Male,27,Christianity,Single,No,Fairly Satisfied,Very Satisfied,Not Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Oyo,Male,24,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Imo,Female,32,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Very Disciplined
+Anambra,Male,34,Islam,Married,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Male,23,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Enugu,Female,31,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Oyo,Female,32,Christianity,Single,No,Not Satisfied,Very Satisfied,Satisfied,Very Satisfied,Very Disciplined,Not Disciplined,Not Disciplined,Not Disciplined,Not Disciplined
+Lagos,Female,21,Christianity,Single,No,Very Satisfied,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Others,Female,30,Christianity,Single,No,Not Satisfied,Fairly Satisfied,Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Others,Male,34,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Kaduna,Male,22,Islam,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Ogun,Male,22,Christianity,Single,Yes,Not Satisfied,Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Lagos,Female,23,Islam,Single,Yes,Fairly Satisfied,Satisfied,Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Kano,Female,23,Christianity,Single,No,Fairly Satisfied,Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Ekiti,Female,29,Christianity,Single,Yes,Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Lagos,Female,30,Christianity,Married,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Abia,Male,30,Islam,Single,Yes,Not Satisfied,Satisfied,Very Satisfied,Satisfied,Not Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Lagos,Male,24,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Others,Male,23,Islam,Single,No,Satisfied,Very Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Not Disciplined,Not Disciplined
+Osun,Male,30,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Kano,Male,33,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Ogun,Female,29,Islam,Married,Yes,Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Imo,Male,27,Christianity,Single,Yes,Satisfied,Satisfied,Fairly Satisfied,Satisfied,Not Disciplined,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Imo,Male,25,Christianity,Single,No,Fairly Satisfied,Very Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Very Disciplined
+Oyo,Male,25,Christianity,Single,No,Not Satisfied,Not Satisfied,Not Satisfied,Not Satisfied,Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Others,Female,27,Others,Single,No,Very Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Kaduna,Female,26,Islam,Single,No,Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Others,Male,34,Christianity,Single,Yes,Very Satisfied,Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Others,Male,29,Christianity,Single,No,Satisfied,Not Satisfied,Not Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Enugu,Female,33,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Not Satisfied,Not Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Others,Male,30,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Disciplined,Very Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Lagos,Female,31,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Oyo,Female,29,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Lagos,Male,32,Christianity,Single,No,Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Not Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Ogun,Male,27,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+Ondo,Female,33,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Osun,Male,21,Islam,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+FCT,Male,28,Islam,Single,No,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Ondo,Female,20,Islam,Single,Yes,Very Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Osun,Female,34,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Imo,Female,27,Islam,Single,Yes,Satisfied,Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Female,31,Islam,Single,Yes,Fairly Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Male,30,Christianity,Single,Yes,Very Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Lagos,Male,31,Islam,Single,No,Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Not Disciplined,Very Disciplined,Disciplined,Disciplined
+Others,Female,31,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Kaduna,Male,23,Christianity,Single,No,Satisfied,Not Satisfied,Satisfied,Satisfied,Very Disciplined,Not Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Oyo,Male,23,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Very Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Lagos,Female,24,Christianity,Single,Yes,Satisfied,Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Very Disciplined,Not Disciplined,Very Disciplined
+Kaduna,Male,27,Christianity,Married,No,Fairly Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Kano,Male,24,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kano,Male,27,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Kaduna,Male,34,Christianity,Single,Yes,Satisfied,Not Satisfied,Satisfied,Not Satisfied,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Lagos,Male,29,Christianity,Married,No,Satisfied,Very Satisfied,Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Ondo,Male,20,Christianity,Single,No,Very Satisfied,Very Satisfied,Very Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Lagos,Male,31,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Very Satisfied,Not Satisfied,Disciplined,Very Disciplined,Not Disciplined,Not Disciplined,Not Disciplined
+FCT,Female,34,Islam,Single,Yes,Fairly Satisfied,Satisfied,Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Enugu,Female,29,Christianity,Single,Yes,Not Satisfied,Satisfied,Not Satisfied,Very Satisfied,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined,Not Disciplined
+Ogun,Female,28,Christianity,Married,No,Not Satisfied,Satisfied,Fairly Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Female,25,Islam,Married,Yes,Not Satisfied,Not Satisfied,Fairly Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ogun,Male,22,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Ogun,Male,32,Christianity,Married,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Kano,Female,33,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Satisfied,Very Disciplined,Not Disciplined,Disciplined,Disciplined,Not Disciplined
+Ebonyi,Male,27,Islam,Single,Yes,Not Satisfied,Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Others,Female,28,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Abia,Male,25,Islam,Single,Yes,Fairly Satisfied,Satisfied,Not Satisfied,Fairly Satisfied,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Lagos,Female,30,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Kano,Male,26,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Kaduna,Female,20,Islam,Single,No,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Anambra,Male,33,Others,Single,Yes,Not Satisfied,Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Female,24,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Abia,Male,24,Islam,Single,Yes,Satisfied,Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Imo,Male,29,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Ekiti,Female,33,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Not Disciplined,Not Disciplined,Disciplined,Disciplined
+Lagos,Male,23,Christianity,Married,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Lagos,Female,25,Islam,Single,Yes,Very Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Lagos,Female,26,Others,Single,No,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Ebonyi,Male,28,Islam,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Ogun,Female,20,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Imo,Female,34,Christianity,Single,Yes,Not Satisfied,Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Not Disciplined,Very Disciplined,Disciplined,Disciplined
+Others,Female,25,Christianity,Single,No,Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Osun,Male,26,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Very Satisfied,Not Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ekiti,Male,22,Christianity,Married,Yes,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Female,27,Christianity,Single,No,Not Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Oyo,Female,34,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Lagos,Male,24,Christianity,Single,Yes,Not Satisfied,Satisfied,Very Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Osun,Female,34,Christianity,Single,No,Not Satisfied,Not Satisfied,Very Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Oyo,Male,28,Christianity,Single,No,Satisfied,Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Others,Male,24,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Not Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Kaduna,Male,28,Others,Married,Yes,Satisfied,Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Ebonyi,Male,29,Christianity,Single,Yes,Not Satisfied,Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Not Disciplined
+FCT,Female,23,Christianity,Single,No,Very Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Kaduna,Male,28,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Oyo,Female,24,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Not Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Others,Female,29,Islam,Single,Yes,Very Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Disciplined
+Imo,Female,28,Islam,Single,Yes,Satisfied,Very Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Kaduna,Male,22,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Satisfied,Not Satisfied,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Others,Male,34,Christianity,Single,No,Fairly Satisfied,Very Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Ogun,Female,23,Islam,Other,Yes,Satisfied,Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Lagos,Female,28,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Not Disciplined,Disciplined,Disciplined,Disciplined
+Oyo,Male,29,Christianity,Married,Yes,Satisfied,Very Satisfied,Not Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Ekiti,Female,30,Christianity,Single,No,Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Kaduna,Female,25,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+FCT,Female,21,Others,Single,Yes,Very Satisfied,Satisfied,Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Lagos,Female,26,Christianity,Single,No,Not Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Imo,Female,21,Islam,Single,No,Not Satisfied,Satisfied,Not Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Ekiti,Male,30,Christianity,Single,No,Fairly Satisfied,Very Satisfied,Very Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Oyo,Female,21,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Lagos,Female,30,Christianity,Single,Yes,Not Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Ogun,Male,20,Christianity,Single,No,Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Others,Male,30,Christianity,Single,Yes,Very Satisfied,Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Ogun,Male,30,Christianity,Single,No,Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Imo,Female,31,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Kano,Female,30,Islam,Single,No,Very Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Ondo,Male,22,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Others,Female,25,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Others,Male,27,Islam,Single,Yes,Not Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Osun,Female,28,Islam,Single,No,Fairly Satisfied,Very Satisfied,Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Abia,Female,26,Islam,Single,No,Very Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Ogun,Female,23,Others,Single,Yes,Not Satisfied,Fairly Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Not Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Osun,Male,25,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+Lagos,Male,24,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Enugu,Male,27,Islam,Single,No,Very Satisfied,Not Satisfied,Satisfied,Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Imo,Male,20,Christianity,Single,No,Not Satisfied,Very Satisfied,Satisfied,Satisfied,Not Disciplined,Not Disciplined,Disciplined,Disciplined,Not Disciplined
+Lagos,Female,20,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Not Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Osun,Female,32,Islam,Single,Yes,Not Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Disciplined,Disciplined,Not Disciplined,Very Disciplined,Not Disciplined
+Others,Female,34,Christianity,Single,No,Not Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Osun,Female,30,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Lagos,Male,25,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Abia,Female,29,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Others,Female,31,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Osun,Female,21,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Fairly Satisfied,Satisfied,Not Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kano,Male,24,Islam,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Kaduna,Male,20,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Very Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Osun,Male,26,Christianity,Single,No,Not Satisfied,Fairly Satisfied,Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Kano,Female,20,Islam,Single,Yes,Fairly Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ondo,Female,23,Islam,Single,No,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Not Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Ebonyi,Male,28,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Ebonyi,Female,20,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Imo,Female,23,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined,Disciplined
+Lagos,Male,25,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+FCT,Male,25,Christianity,Single,No,Fairly Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Ogun,Female,31,Christianity,Single,No,Very Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Oyo,Male,34,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Lagos,Female,32,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Not Disciplined,Not Disciplined,Not Disciplined
+Anambra,Male,27,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined,Disciplined
+Kano,Female,20,Christianity,Married,Yes,Not Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Lagos,Male,26,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Imo,Male,20,Christianity,Single,No,Not Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined,Disciplined
+Oyo,Female,32,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Not Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Ebonyi,Male,33,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Oyo,Male,26,Islam,Single,Yes,Very Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Disciplined,Not Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Kano,Male,22,Christianity,Single,No,Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Ondo,Female,30,Christianity,Single,Yes,Satisfied,Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Others,Female,27,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Lagos,Female,22,Islam,Married,No,Very Satisfied,Fairly Satisfied,Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Not Disciplined,Disciplined
+Ogun,Male,33,Christianity,Single,Yes,Very Satisfied,Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Lagos,Male,33,Christianity,Single,No,Satisfied,Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Others,Male,32,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Satisfied,Satisfied,Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+FCT,Male,20,Christianity,Single,No,Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Osun,Female,32,Islam,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Not Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kano,Male,32,Islam,Single,Yes,Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Kaduna,Male,33,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Anambra,Female,27,Islam,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Imo,Male,22,Islam,Single,No,Satisfied,Satisfied,Very Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Osun,Male,21,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Lagos,Female,20,Islam,Single,Yes,Very Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Others,Male,33,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Satisfied,Not Satisfied,Not Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Others,Female,22,Christianity,Single,No,Satisfied,Very Satisfied,Satisfied,Satisfied,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Ebonyi,Female,34,Christianity,Single,No,Very Satisfied,Very Satisfied,Not Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Ogun,Female,21,Islam,Single,Yes,Very Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Ogun,Male,21,Christianity,Single,Yes,Satisfied,Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Not Disciplined
+Kano,Female,25,Islam,Single,Yes,Not Satisfied,Not Satisfied,Fairly Satisfied,Satisfied,Not Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Others,Male,31,Islam,Single,No,Fairly Satisfied,Very Satisfied,Very Satisfied,Not Satisfied,Not Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Others,Male,20,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Male,21,Islam,Single,Yes,Satisfied,Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Ebonyi,Female,33,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Lagos,Male,25,Christianity,Single,No,Satisfied,Satisfied,Not Satisfied,Not Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Oyo,Male,22,Christianity,Married,Yes,Very Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Others,Female,34,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Enugu,Male,23,Islam,Single,Yes,Very Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Lagos,Male,20,Islam,Single,Yes,Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Lagos,Male,27,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Kano,Male,32,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Fairly Satisfied,Not Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Lagos,Male,26,Christianity,Married,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Not Disciplined,Disciplined,Disciplined,Very Disciplined
+Oyo,Male,26,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Imo,Female,22,Others,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Kano,Male,29,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ebonyi,Male,29,Christianity,Single,No,Satisfied,Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Not Disciplined
+Oyo,Female,22,Christianity,Single,Yes,Satisfied,Not Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Kano,Male,33,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Osun,Female,21,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Ogun,Male,31,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Male,20,Islam,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Ebonyi,Male,26,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Not Disciplined,Disciplined,Not Disciplined,Not Disciplined
+FCT,Male,26,Islam,Single,No,Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Ebonyi,Male,31,Christianity,Single,No,Not Satisfied,Not Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Anambra,Male,21,Christianity,Single,No,Not Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Male,26,Islam,Single,Yes,Not Satisfied,Satisfied,Not Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ondo,Male,32,Christianity,Single,Yes,Very Satisfied,Very Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Osun,Male,27,Islam,Single,Yes,Fairly Satisfied,Satisfied,Satisfied,Fairly Satisfied,Disciplined,Disciplined,Not Disciplined,Very Disciplined,Not Disciplined
+Osun,Male,20,Christianity,Single,Yes,Very Satisfied,Not Satisfied,Very Satisfied,Satisfied,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Others,Male,28,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ondo,Male,26,Christianity,Single,Yes,Very Satisfied,Satisfied,Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Not Disciplined
+Others,Female,22,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Ebonyi,Male,27,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Fairly Satisfied,Very Satisfied,Not Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Kaduna,Female,26,Christianity,Single,No,Very Satisfied,Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Imo,Female,30,Christianity,Single,No,Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Anambra,Male,34,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Abia,Female,32,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Oyo,Female,27,Islam,Single,Yes,Very Satisfied,Very Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Kano,Male,25,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+Osun,Male,28,Islam,Single,No,Not Satisfied,Not Satisfied,Very Satisfied,Very Satisfied,Not Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Not Disciplined
+Lagos,Female,34,Christianity,Single,Yes,Very Satisfied,Not Satisfied,Very Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Ebonyi,Female,24,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Very Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Oyo,Male,22,Islam,Single,No,Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Others,Male,22,Christianity,Single,Yes,Not Satisfied,Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Others,Male,20,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Others,Male,31,Christianity,Married,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Ondo,Female,34,Christianity,Single,Yes,Satisfied,Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Lagos,Male,27,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Others,Male,21,Christianity,Single,Yes,Very Satisfied,Not Satisfied,Not Satisfied,Not Satisfied,Disciplined,Disciplined,Very Disciplined,Not Disciplined,Very Disciplined
+Ekiti,Female,22,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Others,Male,27,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Disciplined
+Others,Male,33,Others,Single,No,Fairly Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+FCT,Female,27,Christianity,Other,Yes,Not Satisfied,Not Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Osun,Female,33,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Ondo,Male,30,Christianity,Single,Yes,Very Satisfied,Not Satisfied,Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+FCT,Male,23,Islam,Single,No,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Ogun,Male,23,Christianity,Single,Yes,Very Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Oyo,Male,24,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Not Disciplined,Disciplined,Disciplined,Disciplined
+Anambra,Male,25,Christianity,Single,No,Very Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Not Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Others,Male,24,Christianity,Single,No,Very Satisfied,Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Kano,Male,33,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Not Disciplined,Disciplined,Very Disciplined,Disciplined
+Anambra,Male,34,Christianity,Single,No,Satisfied,Satisfied,Satisfied,Very Satisfied,Disciplined,Not Disciplined,Very Disciplined,Not Disciplined,Very Disciplined
+Lagos,Male,26,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Not Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Enugu,Male,21,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Others,Male,26,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Lagos,Male,29,Islam,Single,Yes,Very Satisfied,Satisfied,Not Satisfied,Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Disciplined
+Imo,Male,26,Christianity,Single,No,Fairly Satisfied,Not Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+FCT,Female,20,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kano,Female,26,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Not Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Kano,Female,24,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Kano,Female,22,Others,Single,No,Not Satisfied,Satisfied,Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Ondo,Male,32,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Fairly Satisfied,Satisfied,Not Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Osun,Male,22,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Kaduna,Male,23,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Female,32,Christianity,Single,No,Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+FCT,Female,31,Christianity,Single,Yes,Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Others,Male,21,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Imo,Male,21,Christianity,Other,Yes,Fairly Satisfied,Very Satisfied,Not Satisfied,Satisfied,Disciplined,Not Disciplined,Very Disciplined,Disciplined,Disciplined
+Imo,Male,20,Islam,Single,Yes,Not Satisfied,Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Male,34,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Ebonyi,Female,24,Islam,Single,Yes,Not Satisfied,Fairly Satisfied,Satisfied,Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Disciplined
+Kano,Female,23,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Male,30,Islam,Single,No,Fairly Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Not Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Others,Female,29,Islam,Single,Yes,Satisfied,Not Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Ogun,Female,34,Islam,Married,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Not Disciplined,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Ondo,Male,21,Islam,Single,No,Satisfied,Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Lagos,Male,22,Islam,Single,Yes,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Anambra,Male,26,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Lagos,Male,26,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Not Satisfied,Very Satisfied,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined,Disciplined
+Abia,Male,31,Christianity,Single,Yes,Satisfied,Satisfied,Not Satisfied,Satisfied,Very Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Imo,Male,23,Islam,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Osun,Male,24,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Anambra,Male,24,Islam,Single,No,Very Satisfied,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+Lagos,Female,25,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Lagos,Male,33,Christianity,Single,Yes,Satisfied,Very Satisfied,Very Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+FCT,Male,28,Christianity,Single,Yes,Satisfied,Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Not Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Ondo,Male,21,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Female,24,Christianity,Single,No,Fairly Satisfied,Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Imo,Male,31,Christianity,Single,Yes,Fairly Satisfied,Very Satisfied,Not Satisfied,Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Kaduna,Male,22,Christianity,Other,Yes,Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Oyo,Female,23,Christianity,Single,No,Very Satisfied,Not Satisfied,Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Enugu,Female,29,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Lagos,Female,25,Christianity,Single,No,Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Lagos,Male,31,Islam,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Imo,Male,27,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Imo,Female,20,Christianity,Single,Yes,Satisfied,Satisfied,Satisfied,Satisfied,Disciplined,Not Disciplined,Not Disciplined,Very Disciplined,Very Disciplined
+Ebonyi,Female,29,Christianity,Single,No,Satisfied,Not Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Kano,Male,33,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Not Disciplined,Disciplined,Disciplined
+Others,Female,27,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Satisfied,Disciplined,Very Disciplined,Not Disciplined,Not Disciplined,Disciplined
+Imo,Male,30,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Ogun,Female,33,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Kaduna,Male,26,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Osun,Male,20,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Ekiti,Male,21,Islam,Single,No,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Lagos,Male,22,Islam,Single,Yes,Not Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Lagos,Male,20,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Others,Male,33,Christianity,Married,Yes,Very Satisfied,Not Satisfied,Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+FCT,Female,28,Christianity,Single,Yes,Very Satisfied,Satisfied,Very Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Kano,Male,27,Christianity,Single,Yes,Satisfied,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Ekiti,Female,21,Others,Single,Yes,Satisfied,Not Satisfied,Satisfied,Not Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Oyo,Male,32,Christianity,Single,No,Very Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Oyo,Male,28,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Osun,Male,26,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Imo,Male,28,Christianity,Single,Yes,Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Kano,Male,25,Christianity,Single,No,Not Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Kano,Male,25,Christianity,Other,No,Very Satisfied,Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Osun,Male,30,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Others,Female,33,Christianity,Single,No,Satisfied,Not Satisfied,Satisfied,Very Satisfied,Disciplined,Not Disciplined,Disciplined,Disciplined,Disciplined
+Kano,Male,23,Christianity,Married,Yes,Not Satisfied,Satisfied,Fairly Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Anambra,Female,29,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined,Disciplined
+Enugu,Male,29,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Ekiti,Female,32,Christianity,Single,Yes,Not Satisfied,Satisfied,Satisfied,Satisfied,Very Disciplined,Not Disciplined,Not Disciplined,Disciplined,Very Disciplined
+Osun,Female,32,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Ondo,Female,21,Christianity,Single,No,Not Satisfied,Not Satisfied,Fairly Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Kaduna,Male,26,Christianity,Single,No,Satisfied,Fairly Satisfied,Not Satisfied,Very Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Male,24,Christianity,Single,Yes,Satisfied,Very Satisfied,Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Lagos,Male,30,Islam,Single,Yes,Satisfied,Very Satisfied,Very Satisfied,Very Satisfied,Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Lagos,Female,25,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Not Satisfied,Satisfied,Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Very Disciplined
+Lagos,Female,21,Christianity,Single,Yes,Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+FCT,Female,24,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Not Satisfied,Disciplined,Very Disciplined,Disciplined,Not Disciplined,Very Disciplined
+Kano,Male,29,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Abia,Female,23,Christianity,Single,Yes,Not Satisfied,Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+Lagos,Female,28,Christianity,Married,No,Not Satisfied,Satisfied,Fairly Satisfied,Satisfied,Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Not Disciplined
+Abia,Male,25,Islam,Single,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Not Disciplined
+Abia,Male,21,Christianity,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Oyo,Female,20,Christianity,Single,No,Satisfied,Very Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Not Disciplined,Disciplined,Disciplined,Disciplined
+Ekiti,Female,24,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Not Satisfied,Not Satisfied,Not Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Ondo,Female,28,Islam,Single,Yes,Very Satisfied,Very Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Disciplined
+Enugu,Male,25,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Satisfied,Not Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Ebonyi,Female,29,Islam,Single,Yes,Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Lagos,Male,31,Christianity,Single,No,Not Satisfied,Very Satisfied,Satisfied,Very Satisfied,Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Not Disciplined
+Ondo,Male,26,Islam,Single,Yes,Fairly Satisfied,Satisfied,Very Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Disciplined,Disciplined
+Enugu,Male,24,Christianity,Single,Yes,Satisfied,Fairly Satisfied,Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Imo,Female,29,Islam,Single,No,Fairly Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+FCT,Female,25,Christianity,Single,No,Very Satisfied,Not Satisfied,Satisfied,Satisfied,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
+Ebonyi,Male,24,Islam,Single,No,Fairly Satisfied,Very Satisfied,Very Satisfied,Fairly Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Oyo,Male,30,Christianity,Single,Yes,Fairly Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Not Disciplined,Not Disciplined
+Lagos,Female,28,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Disciplined,Very Disciplined,Disciplined
+Ebonyi,Male,34,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Lagos,Female,25,Christianity,Married,No,Not Satisfied,Not Satisfied,Very Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Anambra,Male,30,Christianity,Single,Yes,Not Satisfied,Not Satisfied,Satisfied,Fairly Satisfied,Very Disciplined,Not Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Others,Male,27,Christianity,Married,Yes,Fairly Satisfied,Not Satisfied,Satisfied,Satisfied,Very Disciplined,Very Disciplined,Disciplined,Disciplined,Not Disciplined
+Anambra,Male,21,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Not Satisfied,Fairly Satisfied,Disciplined,Disciplined,Very Disciplined,Disciplined,Disciplined
+Ondo,Male,31,Christianity,Single,No,Fairly Satisfied,Satisfied,Very Satisfied,Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Ebonyi,Female,32,Islam,Single,Yes,Satisfied,Not Satisfied,Very Satisfied,Not Satisfied,Not Disciplined,Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Abia,Male,28,Christianity,Single,Yes,Satisfied,Satisfied,Fairly Satisfied,Not Satisfied,Not Disciplined,Very Disciplined,Disciplined,Disciplined,Very Disciplined
+Imo,Male,24,Islam,Single,Yes,Very Satisfied,Fairly Satisfied,Very Satisfied,Not Satisfied,Disciplined,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Others,Female,26,Christianity,Single,Yes,Fairly Satisfied,Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Not Disciplined,Disciplined
+Ondo,Male,29,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Disciplined,Not Disciplined,Disciplined
+Others,Male,32,Islam,Single,Yes,Satisfied,Satisfied,Fairly Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Very Disciplined
+Others,Female,20,Christianity,Single,No,Not Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Disciplined
+Oyo,Female,29,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined,Not Disciplined
+Lagos,Male,24,Christianity,Single,Yes,Not Satisfied,Very Satisfied,Satisfied,Satisfied,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Lagos,Female,31,Christianity,Single,Yes,Fairly Satisfied,Fairly Satisfied,Very Satisfied,Very Satisfied,Disciplined,Disciplined,Disciplined,Disciplined,Very Disciplined
+Lagos,Female,33,Christianity,Single,Yes,Not Satisfied,Satisfied,Fairly Satisfied,Fairly Satisfied,Disciplined,Very Disciplined,Very Disciplined,Not Disciplined,Disciplined
+Lagos,Male,29,Others,Single,No,Very Satisfied,Very Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Disciplined,Very Disciplined,Disciplined,Not Disciplined
+Kano,Male,33,Islam,Other,Yes,Not Satisfied,Very Satisfied,Satisfied,Satisfied,Disciplined,Disciplined,Disciplined,Very Disciplined,Disciplined
+Lagos,Female,21,Christianity,Single,Yes,Very Satisfied,Satisfied,Not Satisfied,Not Satisfied,Very Disciplined,Disciplined,Disciplined,Disciplined,Not Disciplined
+Ogun,Female,31,Christianity,Single,No,Not Satisfied,Not Satisfied,Not Satisfied,Fairly Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Not Disciplined,Disciplined
+FCT,Male,25,Christianity,Married,Yes,Satisfied,Satisfied,Satisfied,Satisfied,Disciplined,Very Disciplined,Disciplined,Not Disciplined,Not Disciplined
+Lagos,Female,30,Christianity,Single,No,Not Satisfied,Not Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Not Disciplined,Very Disciplined,Disciplined
+Kaduna,Female,20,Christianity,Single,Yes,Not Satisfied,Fairly Satisfied,Satisfied,Very Satisfied,Very Disciplined,Very Disciplined,Very Disciplined,Disciplined,Very Disciplined
+Osun,Male,22,Christianity,Single,Yes,Very Satisfied,Fairly Satisfied,Satisfied,Satisfied,Very Disciplined,Disciplined,Very Disciplined,Very Disciplined,Disciplined
+Lagos,Male,24,Christianity,Single,No,Fairly Satisfied,Fairly Satisfied,Fairly Satisfied,Satisfied,Disciplined,Disciplined,Very Disciplined,Very Disciplined,Very Disciplined
